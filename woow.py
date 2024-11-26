@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 
 # تحميل البيانات
-file_path = r"C:\Users\Sec\Documents\wow\Electric Vehicle Population Data.csv"
+file_path = r"Electric Vehicle Population Data.csv"
 data = pd.read_csv(file_path)
 
 # واجهة المستخدم
