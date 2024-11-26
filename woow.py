@@ -13,7 +13,6 @@ data = pd.read_csv(file_path)
 
 # واجهة المستخدم
 st.title("التنبؤ بالمدى للسيارات الكهربائية ")
-st.write("يتضمن هذا التطبيق خطوات تدريب النموذج والتنبؤ باستخدام أفضل الإعدادات.")
 
 # معالجة القيم النصية
 categorical_columns = ['Make', 'Model', 'Electric Vehicle Type', 'State', 'Electric Utility']
