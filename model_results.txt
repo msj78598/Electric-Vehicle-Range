@@ -1,0 +1,4 @@
+نتائج النموذج:
+أفضل الإعدادات: {'max_depth': 10, 'min_samples_split': 10, 'n_estimators': 300}
+Mean Squared Error (MSE): 92.45
+R² Score: 0.99
